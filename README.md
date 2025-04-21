@@ -50,6 +50,7 @@ PowerShell Conference Books
 - [Volume 1](https://leanpub.com/powershell-conference-book)
 - [Volume 2](https://leanpub.com/psconfbook2)
 - [Volume 3](https://leanpub.com/psconfbook3)
+- [Modern IT Automation with PowerShell - First Edition](https://leanpub.com/modernautomationwithpowershell)
 
 ### Videos
 
